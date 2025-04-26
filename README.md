@@ -31,7 +31,7 @@ A full-featured YouTube-like platform built with **MERN Stack**, **Tailwind CSS*
 
 | UI Screens | |
 |-----------|--|
-| ![Screenshot 1](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/home.png) | ![Screenshot 2](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/signup-signin.png) |
+| ![Screenshot 1]((https://github.com/DarkRai087/YouTube_Clone/blob/main/frontend/src/assets/profile.png)) | ![Screenshot 2](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/signup-signin.png) |
 | ![Screenshot 3](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/uploadVideo.png) | ![Screenshot 4](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/profile.png) |
 | ![Screenshot 5](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/channelInfo.png) | ![Screenshot 6](https://github.com/AshutoshDevX/Youtube-clone/blob/main/frontend/src/assets/comments.png) |
 
