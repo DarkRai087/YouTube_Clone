@@ -67,12 +67,3 @@ npm run dev            # Starts frontend on port 5173
 
 
 ---
-
-### 📁 Folder Structure
-
-
-
-
-### 📜 License
-
-[MIT License](LICENSE)
