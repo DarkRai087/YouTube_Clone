@@ -51,7 +51,7 @@ A full-featured YouTube-like platform built with **MERN Stack**, **Tailwind CSS*
 
 
 ### Clone the repository
-git clone https://github.com/AshutoshDevX/Youtube-clone.git
+git clone https://github.com/DarkRai087/YouTube_Clone
 cd video-platform
 
 ### Setup backend
